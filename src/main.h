@@ -1,0 +1,14 @@
+//
+// Created by Amin on 2019-07-31.
+//
+
+#ifndef BACKTRACKING_ALOGORITHM_QUEEN_MAIN_H
+#define BACKTRACKING_ALOGORITHM_QUEEN_MAIN_H
+
+
+class main {
+
+};
+
+
+#endif //BACKTRACKING_ALOGORITHM_QUEEN_MAIN_H
